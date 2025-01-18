@@ -1,0 +1,61 @@
+{
+  "generators": [
+    {
+      "title": "Trellis Generator",
+      "description": "Generate elegant trellis structures with customizable patterns. Perfect for garden designs, architectural visualization, and game environments.",
+      "images": [
+        "https://raw.githubusercontent.com/IgorAherne/stable-projectorz-gen3d-list/main/thumbnails/trellis.jpg",
+        "https://drive.google.com/uc?export=view&id=YOUR_GDRIVE_ID",
+        "https://your-backup-server.com/images/trellis.jpg"
+      ],
+      "info_url": "https://github.com/IgorAherne/stable-projectorz-gen3d-list",
+      "download": {
+        "mirrors": [
+          "https://github.com/IgorAherne/stable-projectorz-gen3d-list/releases/download/v1.0/trellis_gen.zip",
+          "https://your-backup-server.com/downloads/trellis_gen.zip"
+        ],
+        "zip_name": "trellis_gen.zip",
+        "extract_path": "Assets/Plugins/TrellisGen",
+        "description": "Trellis Generator Package"
+      }
+    },
+    {
+      "title": "Crystal Cave Builder",
+      "description": "Create mesmerizing crystal cave environments with procedural generation. Features various crystal types and customizable lighting setups.",
+      "images": [
+        "https://raw.githubusercontent.com/IgorAherne/stable-projectorz-gen3d-list/main/thumbnails/trellis.jpg",
+        "https://drive.google.com/uc?export=view&id=YOUR_GDRIVE_ID",
+        "https://your-backup-server.com/images/crystal.jpg"
+      ],
+      "info_url": "https://github.com/IgorAherne/stable-projectorz-gen3d-list",
+      "download": {
+        "mirrors": [
+          "https://github.com/IgorAherne/stable-projectorz-gen3d-list/releases/download/v1.0/crystal_cave.zip",
+          "https://your-backup-server.com/downloads/crystal_cave.zip"
+        ],
+        "zip_name": "crystal_cave.zip",
+        "extract_path": "Assets/Plugins/CrystalCave",
+        "description": "Crystal Cave Builder Package"
+      }
+    },
+    {
+      "title": "Sci-Fi Chamber Designer",
+      "description": "Design futuristic sci-fi chambers and corridors with modular components. Includes various high-tech props and customizable material systems.",
+      "images": [
+        "https://raw.githubusercontent.com/IgorAherne/stable-projectorz-gen3d-list/main/thumbnails/trellis.jpg",
+        "https://drive.google.com/uc?export=view&id=YOUR_GDRIVE_ID",
+        "https://your-backup-server.com/images/scifi.jpg"
+      ],
+      "info_url": "https://github.com/IgorAherne/stable-projectorz-gen3d-list",
+      "download": {
+        "mirrors": [
+          "https://github.com/IgorAherne/stable-projectorz-gen3d-list/releases/download/v1.0/scifi_chamber.zip",
+          "https://your-backup-server.com/downloads/scifi_chamber.zip"
+        ],
+        "zip_name": "scifi_chamber.zip",
+        "extract_path": "Assets/Plugins/SciFiChamber",
+        "description": "Sci-Fi Chamber Designer Package"
+      }
+    }
+  ]
+}
