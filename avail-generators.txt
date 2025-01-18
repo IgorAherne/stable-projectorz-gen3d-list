@@ -36,7 +36,8 @@
         "zip_name": "crystal_cave.zip",
         "extract_path": "Assets/Plugins/CrystalCave",
         "description": "Crystal Cave Builder Package"
-      }
+      },
+	  "isNonCommercial": true
     },
     {
       "title": "Sci-Fi Chamber Designer",
