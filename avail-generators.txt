@@ -13,7 +13,8 @@
         ],
         "zip_name": "trellis-stable-projectorz.zip",
         "extract_path": "."
-      }
+      },
+      "nonCommercial": true
     }
   ]
 }
