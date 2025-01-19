@@ -12,7 +12,7 @@
           "https://github.com/IgorAherne/trellis-stable-projectorz/releases/download/spz/trellis-spz.zip"
         ],
         "zip_name": "trellis-stable-projectorz.zip",
-        "extract_path": "."
+        "extract_path": "gen3d/trellis-stable-projectorz/"
       },
       "nonCommercial": true
     }
