@@ -1,62 +1,21 @@
 {
   "generators": [
     {
-      "title": "Trellis Generator",
-      "description": "Generate elegant trellis structures with customizable patterns. Perfect for garden designs, architectural visualization, and game environments.",
+      "title": "<b>Trellis (2024)</b>\n<size=80%>Xiang, Jianfeng and Lv, Zelong and Xu, Sicheng and Deng, Yu and Wang, Ruicheng and Zhang, Bowen and Chen, Dong and Tong, Xin and Yang, Jiaolong</size>",
+      "description": "TRELLIS is a large 3D asset generation model. It takes in text or image prompts and generates high-quality 3D assets in various formats, such as Radiance Fields, 3D Gaussians, and meshes. The cornerstone of TRELLIS is a unified Structured LATent (SLAT) representation that allows decoding to different output formats and Rectified Flow Transformers tailored for SLAT as the powerful backbones. This version of TRELLIS implements half-precision. Works on RTX 3000 and RTX 4000 series Nvidia GPUs.",
       "images": [
         "https://raw.githubusercontent.com/IgorAherne/stable-projectorz-gen3d-list/main/thumbnails/trellis.jpg",
-        "https://drive.google.com/uc?export=view&id=YOUR_GDRIVE_ID",
-        "https://your-backup-server.com/images/trellis.jpg"
       ],
-      "info_url": "https://github.com/IgorAherne/stable-projectorz-gen3d-list",
+      "info_url": "https://github.com/IgorAherne/trellis-stable-projectorz",
       "download": {
         "mirrors": [
-          "https://github.com/IgorAherne/stable-projectorz-gen3d-list/releases/download/v1.0/trellis_gen.zip",
-          "https://your-backup-server.com/downloads/trellis_gen.zip"
+          "https://github.com/IgorAherne/trellis-stable-projectorz/releases/download/spz/trellis-spz.zip",
         ],
-        "zip_name": "trellis_gen.zip",
-        "extract_path": "Assets/Plugins/TrellisGen",
-        "description": "Trellis Generator Package"
+        "zip_name": "trellis-stable-projectorz.zip",
+        "extract_path": ".",
+        "description": "Trellis 3D generation repo"
       }
     },
-    {
-      "title": "Crystal Cave Builder",
-      "description": "Create mesmerizing crystal cave environments with procedural generation. Features various crystal types and customizable lighting setups.",
-      "images": [
-        "https://raw.githubusercontent.com/IgorAherne/stable-projectorz-gen3d-list/main/thumbnails/trellis.jpg",
-        "https://drive.google.com/uc?export=view&id=YOUR_GDRIVE_ID",
-        "https://your-backup-server.com/images/crystal.jpg"
-      ],
-      "info_url": "https://github.com/IgorAherne/stable-projectorz-gen3d-list",
-      "download": {
-        "mirrors": [
-          "https://github.com/IgorAherne/stable-projectorz-gen3d-list/releases/download/v1.0/crystal_cave.zip",
-          "https://your-backup-server.com/downloads/crystal_cave.zip"
-        ],
-        "zip_name": "crystal_cave.zip",
-        "extract_path": "Assets/Plugins/CrystalCave",
-        "description": "Crystal Cave Builder Package"
-      },
-	  "isNonCommercial": true
-    },
-    {
-      "title": "Sci-Fi Chamber Designer",
-      "description": "Design futuristic sci-fi chambers and corridors with modular components. Includes various high-tech props and customizable material systems.",
-      "images": [
-        "https://raw.githubusercontent.com/IgorAherne/stable-projectorz-gen3d-list/main/thumbnails/trellis.jpg",
-        "https://drive.google.com/uc?export=view&id=YOUR_GDRIVE_ID",
-        "https://your-backup-server.com/images/scifi.jpg"
-      ],
-      "info_url": "https://github.com/IgorAherne/stable-projectorz-gen3d-list",
-      "download": {
-        "mirrors": [
-          "https://github.com/IgorAherne/stable-projectorz-gen3d-list/releases/download/v1.0/scifi_chamber.zip",
-          "https://your-backup-server.com/downloads/scifi_chamber.zip"
-        ],
-        "zip_name": "scifi_chamber.zip",
-        "extract_path": "Assets/Plugins/SciFiChamber",
-        "description": "Sci-Fi Chamber Designer Package"
-      }
-    }
+ 
   ]
 }
