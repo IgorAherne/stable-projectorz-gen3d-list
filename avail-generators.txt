@@ -13,9 +13,27 @@
         ],
         "zip_name": "trellis-stable-projectorz.zip",
         "extract_path": ".",
-        "description": "Trellis 3D generation repo"
       }
     },
- 
+	{
+      "title": "Crystal Cave Builder",
+      "description": "Create mesmerizing crystal cave environments with procedural generation. Features various crystal types and customizable lighting setups.",
+      "images": [
+        "https://raw.githubusercontent.com/IgorAherne/stable-projectorz-gen3d-list/main/thumbnails/trellis.jpg",
+        "https://drive.google.com/uc?export=view&id=YOUR_GDRIVE_ID",
+        "https://your-backup-server.com/images/crystal.jpg"
+      ],
+      "info_url": "https://github.com/IgorAherne/stable-projectorz-gen3d-list",
+      "download": {
+        "mirrors": [
+          "https://github.com/IgorAherne/stable-projectorz-gen3d-list/releases/download/v1.0/crystal_cave.zip",
+          "https://your-backup-server.com/downloads/crystal_cave.zip"
+        ],
+        "zip_name": "crystal_cave.zip",
+        "extract_path": "Assets/Plugins/CrystalCave",
+        "description": "Crystal Cave Builder Package"
+      },
+	  "isNonCommercial": true
+    },
   ]
 }
