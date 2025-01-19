@@ -1,7 +1,7 @@
 {
   "generators": [
     {
-      "title": "<b>Trellis (2024)</b>\n<size=80%>Xiang, Jianfeng and Lv, Zelong and Xu, Sicheng and Deng, Yu and Wang, Ruicheng and Zhang, Bowen and Chen, Dong and Tong, Xin and Yang, Jiaolong</size>",
+      "title": "<b>Trellis (2024)</b>\\n<size=80%>Xiang, Jianfeng and Lv, Zelong and Xu, Sicheng and Deng, Yu and Wang, Ruicheng and Zhang, Bowen and Chen, Dong and Tong, Xin and Yang, Jiaolong</size>",
       "description": "TRELLIS is a large 3D asset generation model. It takes in text or image prompts and generates high-quality 3D assets in various formats, such as Radiance Fields, 3D Gaussians, and meshes. The cornerstone of TRELLIS is a unified Structured LATent (SLAT) representation that allows decoding to different output formats and Rectified Flow Transformers tailored for SLAT as the powerful backbones. This version of TRELLIS implements half-precision. Works on RTX 3000 and RTX 4000 series Nvidia GPUs.",
       "images": [
         "https://raw.githubusercontent.com/IgorAherne/stable-projectorz-gen3d-list/main/thumbnails/trellis.jpg",
