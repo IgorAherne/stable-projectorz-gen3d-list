@@ -17,7 +17,7 @@
         "extract_path": "gen3d/trellis-stable-projectorz/"
       },
       "nonCommercial": true,
-      "onReadyMessage": "Downloaded. Double-click its 'run-fp16.bat' file 1"
+      "onReadyMessage": "Downloaded. Double-click its 'run-fp16.bat' file"
     }
   ]
 }
