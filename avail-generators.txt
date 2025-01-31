@@ -14,7 +14,7 @@
 		  "https://sourceforge.net/projects/trellis-stable-projectorz/files/spz/trellis-spz.zip/download"
         ],
         "zip_name": "trellis-stable-projectorz.zip",
-        "extract_path": "gen3d/trellis-stable-projectorz/"
+        "extract_path": "gen3d/trellis-stable-projectorz-101/"
       },
       "nonCommercial": true,
       "onReadyMessage": "Downloaded. Double-click its 'run-fp16.bat' file"
