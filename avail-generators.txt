@@ -4,20 +4,38 @@
       "title": "<b>Trellis (2024)</b>\\n<size=80%>Xiang, Jianfeng and Lv, Zelong and Xu, Sicheng and Deng, Yu and Wang, Ruicheng and Zhang, Bowen and Chen, Dong and Tong, Xin and Yang, Jiaolong</size>",
       "description": "TRELLIS is a large 3D asset generation model. It takes in text or image prompts and generates high-quality 3D assets in various formats, such as Radiance Fields, 3D Gaussians, and meshes. The cornerstone of TRELLIS is a unified Structured LATent (SLAT) representation that allows decoding to different output formats and Rectified Flow Transformers tailored for SLAT as the powerful backbones. This version of TRELLIS implements half-precision. Works on NVIDIA GPUs.",
       "images": [
-		"https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/trellis.jpg?raw=true",
+		    "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/trellis.jpg?raw=true",
         "https://sourceforge.net/p/stable-projectorz-gen3d-list/code/ci/main/tree/thumbnails/trellis.jpg?format=raw"
       ],
       "info_url": "https://github.com/IgorAherne/trellis-stable-projectorz",
       "download": {
         "mirrors": [
           "https://github.com/IgorAherne/trellis-stable-projectorz/releases/download/spz/trellis-spz.zip",
-		  "https://sourceforge.net/projects/trellis-stable-projectorz/files/spz/trellis-spz.zip/download"
+		      "https://sourceforge.net/projects/trellis-stable-projectorz/files/spz/trellis-spz.zip/download"
         ],
         "zip_name": "trellis-stable-projectorz.zip",
         "extract_path": "gen3d/trellis-stable-projectorz-101/"
       },
       "nonCommercial": true,
       "onReadyMessage": "Downloaded. Double-click its 'run-fp16.bat' file"
+    },
+    {
+      "title": "<b>Hunyuan3D 2.0 (2025)</b>\\n<size=80%>Tencent Hunyuan3D Team</size>",
+      "description": "An advanced large-scale 3D synthesis system for generating high-resolution textured 3D assets. This system includes two foundation components: a large-scale shape generation model - Hunyuan3D-DiT, and a large-scale texture synthesis model - Hunyuan3D-Paint. This version of Hunyuan 2D implements additional VRAM usage optimizations for texture-generation. Works on NVIDIA GPUs.",
+      "images": [
+		    "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/hunyuan2.jpg?raw=true"
+      ],
+      "info_url": "https://github.com/IgorAherne/Hunyuan3D-2-stable-projectorz",
+      "download": {
+        "mirrors": [
+          "https://github.com/IgorAherne/Hunyuan3D-2-stable-projectorz/releases/download/spz/hunyuan2-spz.zip",
+		      "https://sourceforge.net/projects/hunyuan3d-2-stable-projectorz/files/spz/hunyuan2-spz.zip/download"
+        ],
+        "zip_name": "hunyuan2-spz.zip",
+        "extract_path": "gen3d/hunyuan2-spz-101/"
+      },
+      "nonCommercial": false,
+      "onReadyMessage": "Downloaded. Double-click its '/run-projectorz/.bat' file"
     }
-  ]
+  ],
 }
