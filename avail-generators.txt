@@ -23,7 +23,8 @@
       "title": "<b>Hunyuan3D 2.0 (2025)</b>\\n<size=80%>Tencent Hunyuan3D Team</size>",
       "description": "An advanced large-scale 3D synthesis system for generating high-resolution textured 3D assets. This system includes two foundation components: a large-scale shape generation model - Hunyuan3D-DiT, and a large-scale texture synthesis model - Hunyuan3D-Paint. This version of Hunyuan 2D implements additional VRAM usage optimizations for texture-generation. Works on NVIDIA GPUs.",
       "images": [
-		    "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/hunyuan2.jpg?raw=true"
+		    "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/hunyuan2.jpg?raw=true",
+        "https://sourceforge.net/p/stable-projectorz-gen3d-list/code/ci/main/tree/thumbnails/hunyuan2.jpg?format=raw"
       ],
       "info_url": "https://github.com/IgorAherne/Hunyuan3D-2-stable-projectorz",
       "download": {
@@ -37,5 +38,5 @@
       "nonCommercial": false,
       "onReadyMessage": "Downloaded. Double-click its '/run-projectorz/.bat' file"
     }
-  ],
+  ]
 }
