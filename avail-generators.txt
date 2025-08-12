@@ -36,7 +36,7 @@
         "extract_path": "gen3d/hunyuan2-spz-101/"
       },
       "nonCommercial": false,
-      "onReadyMessage": "Downloaded. Double-click its '/run-projectorz/.bat' file"
+      "onReadyMessage": "Downloaded.  Right-click the zip -> Extract all\n Then double-click its '/run-projectorz/.bat' file"
     }
   ]
 }
