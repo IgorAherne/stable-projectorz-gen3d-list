@@ -7,7 +7,7 @@
         "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/hunyuan2-1.jpg?raw=true",
         "https://sourceforge.net/projects/hunyuan3d-2-1-stableprojectorz/files/hunyuan2-1.png/download"
       ],
-      "info_url": "https://github.com/IgorAherne/hunyan-2-1-stable-projectorz",
+      "info_url": "https://github.com/IgorAherne/Hunyan3D-2-1-stable-projectorz",
       "download": {
         "mirrors": [
           "https://github.com/IgorAherne/Hunyan3D-2-1-stable-projectorz/releases/download/spz/hunyuan2-1-spz.zip",
