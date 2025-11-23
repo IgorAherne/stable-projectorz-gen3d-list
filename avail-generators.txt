@@ -1,23 +1,23 @@
 {
   "generators": [
     {
-      "title": "<b>Trellis (2024)</b>\\n<size=80%>Xiang, Jianfeng and Lv, Zelong and Xu, Sicheng and Deng, Yu and Wang, Ruicheng and Zhang, Bowen and Chen, Dong and Tong, Xin and Yang, Jiaolong</size>",
-      "description": "TRELLIS is a large 3D asset generation model. It takes in text or image prompts and generates high-quality 3D assets in various formats, such as Radiance Fields, 3D Gaussians, and meshes. The cornerstone of TRELLIS is a unified Structured LATent (SLAT) representation that allows decoding to different output formats and Rectified Flow Transformers tailored for SLAT as the powerful backbones. This version of TRELLIS implements half-precision. Works on NVIDIA GPUs.",
+      "title": "<b>Hunyuan3D 2.1 (2025)</b>\\n<size=80%>Tencent Hunyuan3D Team</size>",
+      "description": "Newest generator, optimized to fit and run efficiently on 8GB gpus, down from 16GB.\nTencent Hunyuan3D-2.1 is a scalable 3D asset creation system that advances state-of-the-art 3D generation through two pivotal innovations: Fully Open-Source Framework and Physically-Based Rendering (PBR) Texture Synthesis.\nThis version implements additional VRAM usage optimizations for texture and shape generation. Works on NVIDIA cards.",
       "images": [
-		    "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/trellis.jpg?raw=true",
-        "https://sourceforge.net/p/stable-projectorz-gen3d-list/code/ci/main/tree/thumbnails/trellis.jpg?format=raw"
+        "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/hunyuan2-1.jpg?raw=true",
+        "https://sourceforge.net/projects/hunyuan3d-2-1-stableprojectorz/files/hunyuan2-1.png/download"
       ],
-      "info_url": "https://github.com/IgorAherne/trellis-stable-projectorz",
+      "info_url": "https://github.com/IgorAherne/hunyan-2-1-stable-projectorz",
       "download": {
         "mirrors": [
-          "https://github.com/IgorAherne/trellis-stable-projectorz/releases/download/spz/trellis-spz.zip",
-		      "https://sourceforge.net/projects/trellis-stable-projectorz/files/spz/trellis-spz.zip/download"
+          "https://github.com/IgorAherne/hunyan-2-1-stable-projectorz/releases/download/spz/hunyuan2-1-spz.zip",
+          "https://sourceforge.net/projects/hunyuan3d-2-1-stableprojectorz/files/hunyuan2-1-spz.zip/download"
         ],
-        "zip_name": "trellis-stable-projectorz.zip",
-        "extract_path": "gen3d/trellis-stable-projectorz-101/"
+        "zip_name": "hunyuan2-1-spz.zip",
+        "extract_path": "gen3d/hunyuan2-1-spz/"
       },
-      "nonCommercial": true,
-      "onReadyMessage": "Downloaded.  Right-click the zip -> Extract all\n Then double-click its 'run-fp16.bat' file"
+      "nonCommercial": false,
+      "onReadyMessage": "Downloaded.  Right-click the zip -> Extract all\n Then double-click its '/run-projectorz/.bat' file"
     },
     {
       "title": "<b>Hunyuan3D 2.0 (2025)</b>\\n<size=80%>Tencent Hunyuan3D Team</size>",
@@ -37,6 +37,25 @@
       },
       "nonCommercial": false,
       "onReadyMessage": "Downloaded.  Right-click the zip -> Extract all\n Then double-click its '/run-projectorz/.bat' file"
+    },
+    {
+      "title": "<b>Trellis (2024)</b>\\n<size=80%>Xiang, Jianfeng and Lv, Zelong and Xu, Sicheng and Deng, Yu and Wang, Ruicheng and Zhang, Bowen and Chen, Dong and Tong, Xin and Yang, Jiaolong</size>",
+      "description": "TRELLIS is a large 3D asset generation model. It takes in text or image prompts and generates high-quality 3D assets in various formats, such as Radiance Fields, 3D Gaussians, and meshes. The cornerstone of TRELLIS is a unified Structured LATent (SLAT) representation that allows decoding to different output formats and Rectified Flow Transformers tailored for SLAT as the powerful backbones. This version of TRELLIS implements half-precision. Works on NVIDIA GPUs.",
+      "images": [
+        "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/trellis.jpg?raw=true",
+        "https://sourceforge.net/p/stable-projectorz-gen3d-list/code/ci/main/tree/thumbnails/trellis.jpg?format=raw"
+      ],
+      "info_url": "https://github.com/IgorAherne/trellis-stable-projectorz",
+      "download": {
+        "mirrors": [
+          "https://github.com/IgorAherne/trellis-stable-projectorz/releases/download/spz/trellis-spz.zip",
+          "https://sourceforge.net/projects/trellis-stable-projectorz/files/spz/trellis-spz.zip/download"
+        ],
+        "zip_name": "trellis-stable-projectorz.zip",
+        "extract_path": "gen3d/trellis-stable-projectorz-101/"
+      },
+      "nonCommercial": true,
+      "onReadyMessage": "Downloaded.  Right-click the zip -> Extract all\n Then double-click its 'run-fp16.bat' file"
     }
   ]
 }
