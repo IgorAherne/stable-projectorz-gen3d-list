@@ -2,7 +2,7 @@
   "generators": [
     {
       "title": "<b>Hunyuan3D 2.1 (2025)</b>\\n<size=80%>Tencent Hunyuan3D Team</size>",
-      "description": "Newest generator for 16GB gpus, but optimized by Igor Aherne to fit and run efficiently on 8GB gpus.\n\nA scalable 3D asset creation system that advances state-of-the-art 3D generation through two pivotal innovations: Fully Open-Source Framework and Physically-Based Rendering (PBR) Texture Synthesis.\nThis version implements additional VRAM usage optimizations for texture and shape generation.\nWorks on NVIDIA cards.",
+      "description": "Newest generator, optimized by Igor Aherne for 8GB gpus, down from 16GB.\n\nA scalable 3D asset creation system that advances state-of-the-art 3D generation through two pivotal innovations: Fully Open-Source Framework and Physically-Based Rendering (PBR) Texture Synthesis.\nThis version implements additional VRAM usage optimizations for texture and shape generation.\nWorks on NVIDIA cards.",
       "images": [
         "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/hunyuan2-1.jpg?raw=true",
         "https://sourceforge.net/projects/hunyuan3d-2-1-stableprojectorz/files/hunyuan2-1.png/download"
