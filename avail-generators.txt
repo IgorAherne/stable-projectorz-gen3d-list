@@ -1,6 +1,25 @@
 {
   "generators": [
     {
+      "title": "<b>TRELLIS.2 (2025)</b>\\n<size=80%>Microsoft Research</size>",
+      "description": "State-of-the-art 4B-parameter 3D generative model by Microsoft Research. Igor Aherne optimized it to run more comfortably on 8GB Nvidia GPUS, even at 1024 voxel resolution.\n\nGenerates high-resolution fully textured assets with PBR materials (Base Color, Roughness, Metallic, Opacity). Uses a novel O-Voxel representation that handles open surfaces, non-manifold geometry, and internal structures.\nSupports 512, 1024, and 1536 voxel resolutions.",
+      "images": [
+        "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/trellis2.jpg?raw=true",
+        "https://sourceforge.net/p/stable-projectorz-gen3d-list/code/ci/main/tree/thumbnails/trellis2.jpg?format=raw"
+      ],
+      "info_url": "https://github.com/IgorAherne/TRELLIS.2-stableprojectorz",
+      "download": {
+        "mirrors": [
+          "https://github.com/IgorAherne/TRELLIS.2-stableprojectorz/releases/download/spz/trellis2-spz.zip",
+          "https://sourceforge.net/projects/trellis-2-stableprojectorz/files/spz/trellis2-spz.zip/download"
+        ],
+        "zip_name": "trellis2-spz.zip",
+        "extract_path": "gen3d/trellis2-spz/"
+      },
+      "nonCommercial": true,
+      "onReadyMessage": "Downloaded.  Right-click the zip -> Extract all\n Then double-click its '/run-projectorz/.bat' file"
+    },
+    {
       "title": "<b>Hunyuan3D 2.1 (2025)</b>\\n<size=80%>Tencent Hunyuan3D Team</size>",
       "description": "Newest generator, optimized by Igor Aherne for 8GB gpus, down from 16GB.\n\nA scalable 3D asset creation system that advances state-of-the-art 3D generation through two pivotal innovations: Fully Open-Source Framework and Physically-Based Rendering (PBR) Texture Synthesis.\nThis version implements additional VRAM usage optimizations for texture and shape generation.\nWorks on NVIDIA cards.",
       "images": [
