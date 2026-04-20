@@ -2,7 +2,7 @@
   "generators": [
     {
       "title": "<b>TRELLIS.2 (2025)</b>\\n<size=80%>Microsoft Research</size>",
-      "description": "State-of-the-art 4B-parameter 3D generative model by Microsoft Research. Igor Aherne optimized it to run more comfortably on 8GB Nvidia GPUS, even at 1024 voxel resolution.\n\nGenerates high-resolution fully textured assets with PBR materials (Base Color, Roughness, Metallic, Opacity). Uses a novel O-Voxel representation that handles open surfaces, non-manifold geometry, and internal structures.\nSupports 512, 1024, and 1536 voxel resolutions.",
+      "description": "State-of-the-art 4B-parameter 3D generative model by Microsoft Research.<br>Igor Aherne optimized it to run more comfortably on 8GB Nvidia GPUS, even at 1024 voxel resolution.\n\nGenerates high-resolution fully textured assets with PBR materials (Base Color, Roughness, Metallic, Opacity). Uses a novel O-Voxel representation that handles open surfaces, non-manifold geometry, and internal structures.\nSupports 512, 1024, and 1536 voxel resolutions.",
       "images": [
         "https://github.com/IgorAherne/stable-projectorz-gen3d-list/blob/main/thumbnails/trellis2.jpg?raw=true",
         "https://sourceforge.net/p/stable-projectorz-gen3d-list/code/ci/main/tree/thumbnails/trellis2.jpg?format=raw"
